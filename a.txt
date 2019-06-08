@@ -1,2 +1,3 @@
-a.txt
+a.txt modify a.txt -> b.txt
+f2 f2
 update
